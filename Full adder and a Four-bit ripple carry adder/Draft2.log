@@ -1,0 +1,50 @@
+Questionable use of curly braces in ".model sir870adp vdmos(rg=3 vto=2.9 rd=3.2m rs=1.5m rb={m} kp=100 mtriode=1.85 cgdmax=1.4n cgdmin=70p cgs=2.9n cjo=3.6n m=.4 a=.7 vj=.7 lambda=20m is=3p ksubthres=.08 mfg=siliconix vds=100 ron=5.5m qg=53.5n)"
+    Error: undefined symbol in: "[m]"
+Circuit: * C:\Users\arpit\Desktop\Study\WINTER 22\VLSI LAB\task 4 repeat\Draft2.asc
+
+Ignoring BSIM parameter XL
+Ignoring BSIM parameter XW
+Ignoring BSIM parameter XL
+Ignoring BSIM parameter XW
+WARNING: Node X1:NC_01 is floating.
+WARNING: Node X2:NC_01 is floating.
+WARNING: Node X3:NC_01 is floating.
+WARNING: Node X4:NC_01 is floating.
+
+WARNING: Less than two connections to node X1:NC_01.  This node is used by M:X1:17.
+WARNING: Less than two connections to node X2:NC_01.  This node is used by M:X2:17.
+WARNING: Less than two connections to node X3:NC_01.  This node is used by M:X3:17.
+WARNING: Less than two connections to node X4:NC_01.  This node is used by M:X4:17.
+Warning: Pd = 0 is less than W.
+Warning: Ps = 0 is less than W.
+Warning: Pd = 0 is less than W.
+Warning: Ps = 0 is less than W.
+Warning: Pd = 0 is less than W.
+Warning: Ps = 0 is less than W.
+Warning: Pd = 0 is less than W.
+Warning: Ps = 0 is less than W.
+Warning: Pd = 0 is less than W.
+Warning: Ps = 0 is less than W.
+Warning: Pd = 0 is less than W.
+Warning: Ps = 0 is less than W.
+Direct Newton iteration for .op point succeeded.
+
+Date: Wed Apr 20 00:19:28 2022
+Total elapsed time: 0.542 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 2117
+traniter = 2082
+tranpoints = 1042
+accept = 1042
+rejected = 0
+matrix size = 80
+fillins = 26
+solver = Normal
+Thread vector: 346.7/89.6[8] 60.5/21.3[8] 21.3/12.5[8] 0.6/4.6[1]  2592/500
+Matrix Compiler1: 9.00 KB object code size  6.0/3.1/[1.4]
+Matrix Compiler2: 10.77 KB object code size  3.1/4.4/[0.7]
+
+
