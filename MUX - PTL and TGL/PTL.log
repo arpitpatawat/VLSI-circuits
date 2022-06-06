@@ -1,0 +1,28 @@
+Questionable use of curly braces in ".model sir870adp vdmos(rg=3 vto=2.9 rd=3.2m rs=1.5m rb={m} kp=100 mtriode=1.85 cgdmax=1.4n cgdmin=70p cgs=2.9n cjo=3.6n m=.4 a=.7 vj=.7 lambda=20m is=3p ksubthres=.08 mfg=siliconix vds=100 ron=5.5m qg=53.5n)"
+    Error: undefined symbol in: "[m]"
+Circuit: * C:\Users\arpit\Desktop\Study\WINTER 22\VLSI LAB\TASK 2 files\PTL.asc
+
+Ignoring BSIM parameter XL
+Ignoring BSIM parameter XW
+Warning: Pd = 0 is less than W.
+Warning: Ps = 0 is less than W.
+Direct Newton iteration for .op point succeeded.
+
+Date: Wed Apr 27 20:13:01 2022
+Total elapsed time: 0.114 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 2998
+traniter = 2977
+tranpoints = 1342
+accept = 1281
+rejected = 61
+matrix size = 9
+fillins = 0
+solver = Normal
+Matrix Compiler1: 296 bytes object code size  0.2/0.1/[0.1]
+Matrix Compiler2: 615 bytes object code size  0.1/0.1/[0.1]
+
+
